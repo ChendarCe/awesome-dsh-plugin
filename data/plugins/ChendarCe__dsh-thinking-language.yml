@@ -1,0 +1,6 @@
+url: https://github.com/ChendarCe/dsh-thinking-language
+name: ChendarCe/dsh-thinking-language
+category: identity
+description:
+  en: 'Makes the agent reason in Simplified Chinese behind an on/off switch, and lets a custom prompt fully replace the built-in instruction; the section joins every prompt assembly, so existing and new sessions both pick it up.'
+  zh: '用一个开关让模型始终用简体中文思考；自定义提示词非空时完全替换内置指令。指令进入每次提示词组装，已有对话和新对话都生效。'
